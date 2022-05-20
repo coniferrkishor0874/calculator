@@ -5,7 +5,6 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/adam08/adam/_apis/build/status/coniferrkishor0874.calculator?branchName=master)](https://dev.azure.com/adam08/adam/_build/latest?definitionId=38&branchName=master)
 
-https://dev.azure.com/adam08/adam/_apis/build/status/coniferrkishor0874.calculator?branchName=master
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
